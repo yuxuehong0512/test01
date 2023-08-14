@@ -1,0 +1,9 @@
+*.jpg
+*.png
+
+*.pth
+*.pt
+*.pb
+runs
+
+*.yaml
